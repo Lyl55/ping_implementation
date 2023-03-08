@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.AssemblyInfo.cs
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ICMP.exe
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ICMP.deps.json
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ICMP.runtimeconfig.json
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ICMP.runtimeconfig.dev.json
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ICMP.dll
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ref\ICMP.dll
+C:\Users\user\source\repos\SimplePing\ICMP\bin\Debug\net5.0\ICMP.pdb
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.dll
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ref\ICMP.dll
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.pdb
+C:\Users\user\source\repos\SimplePing\ICMP\obj\Debug\net5.0\ICMP.genruntimeconfig.cache

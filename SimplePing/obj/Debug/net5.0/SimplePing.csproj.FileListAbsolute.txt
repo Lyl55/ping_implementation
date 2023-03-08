@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\SimplePing.exe
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\SimplePing.deps.json
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\SimplePing.runtimeconfig.json
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\SimplePing.runtimeconfig.dev.json
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\SimplePing.dll
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\ref\SimplePing.dll
+C:\Users\user\source\repos\SimplePing\SimplePing\bin\Debug\net5.0\SimplePing.pdb
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.AssemblyInfo.cs
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.dll
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\ref\SimplePing.dll
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.pdb
+C:\Users\user\source\repos\SimplePing\SimplePing\obj\Debug\net5.0\SimplePing.genruntimeconfig.cache

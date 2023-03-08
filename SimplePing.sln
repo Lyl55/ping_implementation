@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePing", "SimplePing\SimplePing.csproj", "{DB53D28C-FE64-4C60-890D-77FB88653553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB53D28C-FE64-4C60-890D-77FB88653553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB53D28C-FE64-4C60-890D-77FB88653553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB53D28C-FE64-4C60-890D-77FB88653553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB53D28C-FE64-4C60-890D-77FB88653553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFD6268-98D6-4C77-8798-6CBD3BB1579B}
+	EndGlobalSection
+EndGlobal
